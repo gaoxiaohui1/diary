@@ -32,7 +32,7 @@
 
 <script>
   export default {
-    data () {
+    data() {
       return {
         electron: process.versions['atom-shell'],
         name: 'landing-page',

@@ -31,7 +31,8 @@
     "axios": "^0.16.1",
     "vue-electron": "^1.0.6",
     "vue-router": "^2.5.3",
-    "vuex": "^2.3.1"
+    "vuex": "^2.3.1",
+    "vue2-editor": "^2.0.26"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
